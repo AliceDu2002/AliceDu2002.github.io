@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yun-Rong (Alice) Du
     - name: Languages
-      value: English, German
+      value: English, German, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Engineering
+      institution: Department of Electrical Engineering, National Taiwan University
+      year: 2020 - present
       description:
         - Description 1.
         - Description 2.
