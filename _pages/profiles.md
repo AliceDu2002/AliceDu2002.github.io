@@ -3,7 +3,7 @@ layout: profiles
 permalink: /experiences/
 title: experiences
 description: 
-nav: true
+nav: false
 nav_order: 6
 
 profiles:
