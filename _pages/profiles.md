@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /experiences/
-title: experiences
+permalink: /profiles/
+title: profiles
 description: 
 nav: false
 nav_order: 6
