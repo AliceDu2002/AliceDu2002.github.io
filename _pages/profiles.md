@@ -3,7 +3,7 @@ layout: profiles
 permalink: /profiles/
 title: profiles
 description: 
-nav: false
+nav: True
 nav_order: 6
 
 profiles:
@@ -11,7 +11,9 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: 
-    content: about_einstein.md
+    content: 
+    <b>General Coordinator</b> of <b>MakeNTU</b>
+
     image_circular: false # crops the image to make it circular
     more_info: >
 
