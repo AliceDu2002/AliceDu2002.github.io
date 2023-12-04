@@ -5,10 +5,14 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
+          <h1 class="post-title"><b>
             {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+            <style type="text/css">
+              body {
+                color:darkmagenta }
+              </style>
+          </b></h1>
+          <p class="desc"><b>{{ page.subtitle }}</b></p>
         </header>
 
         <article>
@@ -40,8 +44,7 @@ layout: default
           <div class="clearfix">
             <style type="text/css">
               body {
-                text-align: justify;
-                background-color: #d8da3d }
+                text-align: justify; }
               </style>
             {{ content }}
           </div>
