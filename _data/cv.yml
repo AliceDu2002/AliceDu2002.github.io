@@ -37,45 +37,53 @@
       institution: MakeNTU
       year: 2022 - 2023
       description:
-        - Description 1.
+        - The largest student hardware Hackathon in Taiwan with 300 people and 20 enterprises. 
+        - Led team to raise funding, arrange field setups, maintain tools and electronic materials, build websites, hold workshops, and develop marketing strategies for promotion.
     - title: Director
       institution: Makerspace
       year: 2022 - 2023
       description:
-        - Description 1.
+        - Routine tasks of maintaining machines, preparing materials, and training student volunteers.
+        - Held weekly discussion meetings for students to share the latest technology news and techniques.
+        - Held maker skills workshops, side projects and talks, attracting more than 100 people engaging.
     - title: Minister
       institution: National Taiwan University Electrical Engineering Student Association Academic Department
       year: 2022 - 2023
       description:
-        - Description 1.
+        - Dealt with student affairs such as course selection, textbook purchase, and courses' introduction.
     - title: Director
       institution: NTU for FRC (National Taiwan University for FIRST Robotics Competition)
       year: 2022
       description:
-        - Description 1.
+        - Founded the club in my freshman year.
+        - Gave lectures for more than five high schools to promote STEM education.
+        - Volunteered in the 2022 FRC Regional in Taiwan as the Control System Advisor.
     - title: Host
       institution: FIRST Robotics Competition Playoff
       year: 2023
       description:
-        - Description 1.
+        - Hosted the playoff match with 18 teams attended. 
     - title: Volunteer / Control System Advisor
       institution: FIRST Robotics Competition New Taipei City x Hon Hai Regional
       year: 2022
       description:
-        - Description 1.
+        - Assisted teams with Robot Control System-related issues.
+        - Quickly diagnose and correct potential problems, aiming to get teams' robots running and onto the field.
     - title: Host
       institution: TSMC x Taipei City Government Women-in-Tech Forum
       year: 2023
       description:
-        - Description 1.    
+        - Hosted the forum with two outstanding women, Sandy from TSMC and Tina from Google.
+        - Gathered 14 all-girl high schools' students from all over Taiwan. 
     - title: Participants
       institution: Design for Taiwan
       year: 2021 - 2022
       description:
-        - Description 1.   
+        - Learned about design thinking, Collecting questionnaires, and did market research.   
+        - Worked on "the book of all walks of life" by collecting seniors' lifestyles to reduce students' anxiety about their futures.
     - title: International Student Volunteer
       institution: National Taiwan University
       year: 2023
       description:
-        - Description 1.   
+        - Hosted three international students from Sweden, Germany and the United States.   
 
