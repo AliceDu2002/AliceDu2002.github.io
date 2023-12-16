@@ -33,56 +33,47 @@
 - title: Experience
   type: time_table
   contents:
-    - title: General Coordinator
-      institution: MakeNTU
+    - title: MakeNTU General Coordinator 
       year: 2022 - 2023
       description:
         - The largest student hardware Hackathon in Taiwan with 300 people and 20 enterprises. 
         - Led team to raise funding, arrange field setups, maintain tools and electronic materials, build websites, hold workshops, and develop marketing strategies for promotion.
-    - title: Director
-      institution: Makerspace
+    - title: Makerspace Director
       year: 2022 - 2023
       description:
         - Routine tasks of maintaining machines, preparing materials, and training student volunteers.
         - Held weekly discussion meetings for students to share the latest technology news and techniques.
         - Held maker skills workshops, side projects and talks, attracting more than 100 people engaging.
-    - title: Minister
-      institution: National Taiwan University Electrical Engineering Student Association Academic Department
+    - title: National Taiwan University Electrical Engineering Student Association Academic Department Minister
       year: 2022 - 2023
       description:
         - Dealt with student affairs such as course selection, textbook purchase, and courses' introduction.
-    - title: Director
-      institution: NTU for FRC (National Taiwan University for FIRST Robotics Competition)
+    - title: NTU for FRC (National Taiwan University for FIRST Robotics Competition) Director
       year: 2022
       description:
         - Founded the club in my freshman year.
         - Gave lectures for more than five high schools to promote STEM education.
         - Volunteered in the 2022 FRC Regional in Taiwan as the Control System Advisor.
-    - title: Host
-      institution: FIRST Robotics Competition Playoff
+    - title: FIRST Robotics Competition Playoff Host
       year: 2023
       description:
         - Hosted the playoff match with 18 teams attended. 
-    - title: Volunteer / Control System Advisor
-      institution: FIRST Robotics Competition New Taipei City x Hon Hai Regional
+    - title: FIRST Robotics Competition New Taipei City x Hon Hai Regional Volunteer / Control System Advisor
       year: 2022
       description:
         - Assisted teams with Robot Control System-related issues.
         - Quickly diagnose and correct potential problems, aiming to get teams' robots running and onto the field.
-    - title: Host
-      institution: TSMC x Taipei City Government Women-in-Tech Forum
+    - title: TSMC x Taipei City Government Women-in-Tech Forum Host
       year: 2023
       description:
         - Hosted the forum with two outstanding women, Sandy from TSMC and Tina from Google.
         - Gathered 14 all-girl high schools' students from all over Taiwan. 
-    - title: Participants
-      institution: Design for Taiwan
+    - title: Design for Taiwan Participants
       year: 2021 - 2022
       description:
         - Learned about design thinking, Collecting questionnaires, and did market research.   
         - Worked on "the book of all walks of life" by collecting seniors' lifestyles to reduce students' anxiety about their futures.
-    - title: International Student Volunteer
-      institution: National Taiwan University
+    - title: National Taiwan University International Student Volunteer
       year: 2023
       description:
         - Hosted three international students from Sweden, Germany and the United States.   
