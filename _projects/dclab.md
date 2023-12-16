@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Object detection and counting in video with FPGA
+title: Object counting in video with FPGA
 description: My project of the course Digital Circuit Lab.
 img: assets/img/dclab/dclab_1.jpg
 importance: 2

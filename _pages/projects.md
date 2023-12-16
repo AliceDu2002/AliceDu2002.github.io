@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [research, courses, side projects]
+display_categories: [research, side projects, courses]
 horizontal: false
 ---
 
