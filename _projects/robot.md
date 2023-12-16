@@ -2,7 +2,7 @@
 layout: page
 title: Bio-inspired Dung Beetle Robot
 description: My research project in Bio-inspired Robotics Laboratory.
-img: assets/img/robot/robot_1.png
+img: assets/img/robot/robot_6.png
 importance: 3
 category: research
 related_publications: 
