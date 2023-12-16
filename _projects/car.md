@@ -4,7 +4,7 @@ title: Tracking and Matching car
 description: My project of the course Cornerstone EECS Design and Implementation.
 img: assets/img/car/car_4.jpg
 importance: 1
-category: course
+category: courses
 related_publications: 
 ---
 
