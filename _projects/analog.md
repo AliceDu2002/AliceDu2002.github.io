@@ -2,7 +2,7 @@
 layout: page
 title: Analog Circuit Design Projects
 description: My research project in Electronic Research IC Lab. 
-img: assets/img/analog/analog_6.jpg
+img: assets/img/analog/analog_6.png
 importance: 1
 category: research
 related_publications: 
