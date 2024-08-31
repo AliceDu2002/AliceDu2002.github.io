@@ -4,77 +4,123 @@
     - name: Full Name
       value: Yun-Rong (Alice) Du
     - name: Languages
-      value: English, German, Japanese
+      value: Chinese, English, German, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Engineering
-      institution: Department of Electrical Engineering, National Taiwan University
-      year: 2020 - present
+    - title: Master of Science
+        institution: Electrical Engineering, Columbia University
+        location: New York, NY, US
+        year: 2024 - present
+        description:
+          - Nikola Tesla Electrical Engineering Scholars
+
+    - title: Bachelor of Science in Engineering
+      institution: Electrical Engineering, National Taiwan University
+      location: Taipei, Taiwan
+      year: 2020 - 2024
       description:
+        - GPA 4.12/4.3
         - 2023 Spring Academic Dean's Award for Academic Excellence
 
 - title: Job
   type: time_table
   contents:
-    - title: Electrical Engineering Intern
-      institution: Dell Technologies Taiwan Design Center
-      year: 2023
+    - title: Field Application Engineer Summer Intern
+      institution: Micron
+      location: Taipei, Taiwan
+      year: 2024
+      description: 
+        - Performed memory-system compatibility test and issue debug with Intel MRC training and Rank Margining Tool.
+        - Developed a Python automation tool to compare and summarize multiple testing logs, speeding up test and debug flow by 90% for entire PC DRAM team.
+
+    - title: Teaching Assistant 
+      institution: Department of Electrical Engineering, National Taiwan University
+      location: Taipei, Taiwan
+      year: 2024
       description:
-        - Worked in Power Team.
-        - Developed an automation tool with a visualization dashboard, aiming to improve data arrangement and manufacturer management efficiency.
+        - TA for course "Cornerstone EECS Design and Implementation"
+        - Mentored 24 students with their projects using Arduino, RPi, motors, sensors, and programming languages C++ and Python.
+
     - title: Self-Employed Tutor
       institution: 
-      year: 2020 - Present
+      year: 2020 - 2024
       description:
-        - Tutored four high school students in mathematics and one high school student in English.
+        - Tutored five middle and high school students in Mathematics, Science, and English.
+
+    - title: Electrical Engineer Summer Intern
+      institution: Dell Technologies
+      location: Taipei, Taiwan
+      year: 2023
+      description:
+        - Worked in Power Team, which manages the design and manufacture of power products such as batteries, adapters, and power supplies.
+        - Built an automation tool with a visualization dashboard, reducing power product management time by 80%
 
 - title: Experience
   type: time_table
   contents:
-    - title: MakeNTU General Coordinator 
-      year: 2022 - 2023
-      description:
-        - The largest student hardware Hackathon in Taiwan with 300 people and 20 enterprises. 
-        - Led team to raise funding, arrange field setups, maintain tools and electronic materials, build websites, hold workshops, and develop marketing strategies for promotion.
-    - title: Makerspace Director
-      year: 2022 - 2023
-      description:
-        - Routine tasks of maintaining machines, preparing materials, and training student volunteers.
-        - Held weekly discussion meetings for students to share the latest technology news and techniques.
-        - Held maker skills workshops, side projects and talks, attracting more than 100 people engaging.
-    - title: National Taiwan University Electrical Engineering Student Association Academic Department Minister
-      year: 2022 - 2023
-      description:
-        - Dealt with student affairs such as course selection, textbook purchase, and courses' introduction.
-    - title: NTU for FRC (National Taiwan University for FIRST Robotics Competition) Director
-      year: 2022
-      description:
-        - Founded the club in my freshman year.
-        - Gave lectures for more than five high schools to promote STEM education.
-        - Volunteered in the 2022 FRC Regional in Taiwan as the Control System Advisor.
-    - title: FIRST Robotics Competition Playoff Host
+    - title: Host of TSMC x Taipei City Government Women-in-Tech Forum 
       year: 2023
-      description:
-        - Hosted the playoff match with 18 teams attended. 
-    - title: FIRST Robotics Competition New Taipei City x Hon Hai Regional Volunteer / Control System Advisor
-      year: 2022
-      description:
-        - Assisted teams with Robot Control System-related issues.
-        - Quickly diagnose and correct potential problems, aiming to get teams' robots running and onto the field.
-    - title: TSMC x Taipei City Government Women-in-Tech Forum Host
-      year: 2023
+      location: Taipei, Taiwan
       description:
         - Hosted the forum with two outstanding women, Sandy from TSMC and Tina from Google.
         - Gathered 14 all-girl high schools' students from all over Taiwan. 
-    - title: Design for Taiwan Participants
-      year: 2021 - 2022
-      description:
-        - Learned about design thinking, Collecting questionnaires, and did market research.   
-        - Worked on "the book of all walks of life" by collecting seniors' lifestyles to reduce students' anxiety about their futures.
-    - title: National Taiwan University International Student Volunteer
-      year: 2023
-      description:
-        - Hosted three international students from Sweden, Germany and the United States.   
 
+    - title: Emcee of FIRST Robotics Competition (FRC) Taiwan Playoff
+      year: 2023
+      location: Chiayi, Taiwan
+      description:
+        - Volunteered as emcee to create an exciting, fun atmosphere during playoff with 18 teams. 
+        - Worked with a team of 20 to ensure the smooth flow of match play.
+
+    - title: Dancer of NTUEE Light Dance
+      year: 2021 - 2023
+      location: Taipei, Taiwan
+      description: 
+        - Performance link https://www.youtube.com/watch?v=u10oLI85Ip0
+        - Studied protocols and wrote a C++ library for LED control, resolving aberration issues during brightness decay and enhancing signal transmission speed between RPi, microcontroller STM32, and LED strips.
+        - Designed and drew the PCB layout for control circuits and conducted hardware validation for ten systems.
+        - Made costumes, wired LEDs, and passed stability tests.
+
+    - title: General Coordinator of MakeNTU
+      year: 2022 - 2023
+      location: Taipei, Taiwan
+      description:
+        - The largest student hardware Hackathon in Taiwan with 300 people and 20 enterprises. 
+        - Led team to raise funding, arrange field setups, maintain tools and electronic materials, build websites, hold workshops, and develop marketing strategies for promotion.
+    
+    - title: Director of Makerspace 
+      year: 2022 - 2023
+      location: Taipei, Taiwan
+      description:
+        - Led a team of 15 to complete routine tasks of maintaining machines, preparing materials, and training student volunteers.
+        - Held weekly discussion meetings for latest technology news and techniques sharing.
+        - Organized maker skills workshops, side projects, and sharing sessions, attracting more than 100 people engaging.
+
+    - title: Minister of Electrical Engineering Student Association Academic Department 
+      year: 2022 - 2023
+      location: Taipei, Taiwan
+      description:
+        - Dealt with student affairs such as course selection, textbook purchase, and labs' introduction.
+
+    - title: Director of NTU for FRC (National Taiwan University for FIRST Robotics Competition) 
+      year: 2022
+      location: Taipei, Taiwan
+      description:
+        - Initiated the club to train undergraduate students as STEM educators and support FRC teams in Taiwan.
+        - Led a team of 10 people to give lectures and hold workshops for five high schools to promote STEM education.
+
+    - title: Volunteer/Control System Advisor of FIRST Robotics Competition New Taipei City x Hon Hai Regional 
+      year: 2022
+      location: Taipei, Taiwan
+      description:
+        - Assisted teams with Robot Control System-related issues.
+        - Diagnosed and corrected potential problems, aiming to get teams' robots running and onto the field.
+
+    - title: Participant of Design for Taiwan 
+      year: 2021 - 2022
+      location: Taipei, Taiwan
+      description:
+        - Implemented design thinking through our proposal "the book of all walks of life", aiming to reduce students' anxiety about their futures.
+        - Worked on questionaires collection, persona building, market research, and prototyping. 
